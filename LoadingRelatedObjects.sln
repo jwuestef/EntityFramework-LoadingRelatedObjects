@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentApiSection", "FluentApiSection\FluentApiSection.csproj", "{DB902743-853C-4BDD-A931-CD5EF32B735D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadingRelatedObjects", "FluentApiSection\LoadingRelatedObjects.csproj", "{DB902743-853C-4BDD-A931-CD5EF32B735D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
